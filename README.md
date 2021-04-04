@@ -1,5 +1,8 @@
 # rime-egyptological-transliteration
-An Egyptological transliteration schema for Rime
+
+An Egyptological transliteration schema for Rime. With this schema you'll only need 2 keys at most to enter the transliteration letter you want.
+
+使用2个以下的键盘按键输入古代埃及语的转写 (以 Gardiner 方案为主）。[参考](https://en.wikipedia.org/wiki/Transliteration_of_Ancient_Egyptian)
 
 ## keys
 
