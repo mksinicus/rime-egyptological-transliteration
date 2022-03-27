@@ -32,3 +32,8 @@ An Egyptological transliteration schema for Rime. With this schema you'll only n
 | ṯ               | tt     |
 | d               | d      |
 | ḏ               | dd     |
+
+## agenda
+
+- Support for capital letters in Gardiner's schema (high priority)
+- Support for other transliteration schemata (Sed cur non utere Gardineri?)
